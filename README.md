@@ -1,4 +1,4 @@
-## kirbyphillips/README.md
+
 
 * 💻 Data Analyst in Cape Town, South Africa
 * 🛠️ Tech stack: `SQL` `Excel` `Power BI` `Generative AI`
