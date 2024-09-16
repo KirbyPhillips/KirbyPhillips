@@ -4,7 +4,7 @@
 * 🛠️ Tech stack: `SQL` `Excel` `Power BI` `Generative AI`
 * ✍️ Write technical blogs on [Medium](https://medium.com/@kphillips.za)
 * 👩‍🎓 Master of Science in Business Analytics
-* 🌍 Lived in China, Portugal, Sweden
+* 🌍 Lived in South Africa, Sweden, Portugal, China
   
 
 
