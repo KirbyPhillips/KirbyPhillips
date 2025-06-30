@@ -1,7 +1,7 @@
 
 
-* 💻 Data Analyst in Cape Town, South Africa
-* 🛠️ Tech stack: `SQL` `Excel` `Power BI` `Generative AI`
+* 💻 Data Analyst in Amsterdam, Netherlands
+* 🛠️ Tech stack: `Power BI` `MySQL` `Excel` 
 * ✍️ Write technical blogs on [Medium](https://medium.com/@kphillips.za)
 * 👩‍🎓 Master of Science in Business Analytics
 * 🌍 Lived in South Africa, Sweden, Portugal, China
