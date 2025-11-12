@@ -1,6 +1,6 @@
 
 
-* 💻 Data Analyst in Amsterdam, Netherlands
+* 💻 Microsoft Power BI Certified Data Analyst in Amsterdam, Netherlands
 * 🛠️ Tech stack: `Power BI` `MySQL` `Excel` 
 * ✍️ Write technical project blogs on [Medium](https://medium.com/@kphillips.za)
 * 👩‍🎓 Master of Science in Business Analytics
