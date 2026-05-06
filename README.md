@@ -5,7 +5,9 @@
 * 👩‍🎓 Master of Science in Business Analytics
 * 🌍 Lived in South Africa, Sweden, Portugal, China
   
-
+Data Analyst investigating complex data to provide intelligent solutions.
+I use data strategies, analysis, and visualization techniques to bring your data to life and move your business forward.
+For contracting roles, email me: kay@123.com or DM on LinkedIn
 
 <!--
 **KirbyPhillips/KirbyPhillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
