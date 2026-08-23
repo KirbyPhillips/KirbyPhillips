@@ -1,11 +1,11 @@
 
-* Data Analyst investigating complex data to provide intelligent solutions.
+* BI Developer | Data Analyst investigating complex data to provide intelligent solutions.
 * I use data strategies, analysis, and visualization techniques to bring your data to life and move your business forward.
 * Let's work together. Email me: kirby@primepeakinsights.com or send me a DM on [LinkedIn](https://www.linkedin.com/in/kirbykphillips/) 
 
 <!--
 * 💻 Power BI Data Analyst in Amsterdam, Netherlands
-* 🛠️ Tech stack: `Power BI` `MySQL` `Excel` `Figma`
+* 🛠️ Tech stack: `Power BI` `Python` `SQL` `Excel` `Figma`
 * 👩‍🎓 Master of Science in Business Analytics
 * 🌍 Lived in South Africa, Sweden, Portugal, China
   
