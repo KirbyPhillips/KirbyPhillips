@@ -1,7 +1,7 @@
 
 * BI Developer | Data Analyst investigating complex data to provide intelligent solutions.
 * I use data strategies, analysis, and visualization techniques to bring your data to life and move your business forward.
-* Let's work together. Email me: kirby@primepeakinsights.com or send me a DM on [LinkedIn](https://www.linkedin.com/in/kirbykphillips/) 
+* Let's work together. Email me: kphillips.za@gmail.com or send me a DM on [LinkedIn](https://www.linkedin.com/in/kirbykphillips/) 
 
 <!--
 * 💻 Power BI Data Analyst in Amsterdam, Netherlands
