@@ -14,8 +14,7 @@
 - BI Developer | Data Analyst investigating complex data to provide intelligent solutions.
 - I use data strategies, analysis, and visualization techniques to bring your data to life and move your business forward.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<YOUR-LINKEDIN>)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/<YOUR-TWITTER>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<https://www.linkedin.com/in/kirbykphillips/>)
 
 #### 🛠️ Expertise In:
 
