@@ -10,7 +10,7 @@
 
 -->
 
-# Hello, I'm Kirby 
+# Hey there, I'm Kirby 
 
 
 <!--
