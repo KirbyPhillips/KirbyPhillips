@@ -1,32 +1,18 @@
 <!--
+
   GitHub Profile README template
+
   Replace every <PLACEHOLDER> below with your own details.
+
   This file must live in a repo named exactly the same as your GitHub username
+
   (e.g. github.com/yourname/yourname), and that repo must be public.
+
 -->
 
 # Kirby Phillips
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=600&lines=DATA+ANALYST;BI+DEVELOPER" alt="Typing SVG" />
-
-<img align="right" src="https://komarev.com/ghpvc/?username=KirbyPhillips&label=visitors&color=2e2e2e&style=flat" alt="visitor badge" />
-
-- BI Developer | Data Analyst investigating complex data to provide intelligent solutions.
-- I use data strategies, analysis, and visualization techniques to bring your data to life and move your business forward.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<https://www.linkedin.com/in/kirbykphillips/>)
-
-#### 🛠️ Expertise In:
-
-<img src="https://skillicons.dev/icons?i=python,docker,postgres,git,githubactions,vscode" alt="skill icons" />
-
-<!--
-  Skill icon options list: https://skillicons.dev — pick the "i=" slugs you want,
-  comma separated, no spaces.
 -->
-
-
-
 
 <!--
 * BI Developer | Data Analyst investigating complex data to provide intelligent solutions.
