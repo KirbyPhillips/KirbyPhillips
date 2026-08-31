@@ -12,7 +12,6 @@
 
 # Kirby Phillips
 
--->
 
 <!--
 * BI Developer | Data Analyst investigating complex data to provide intelligent solutions.
