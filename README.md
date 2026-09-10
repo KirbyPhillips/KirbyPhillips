@@ -12,8 +12,8 @@
 
 # Kirby Phillips 
 
-* BI Developer | Data Analyst investigating complex data to provide intelligent solutions.
-* I use data strategies, analysis, and visualization techniques to bring your data to life and move your business forward.
+* Data Consultant helping businesses turn complex data into intelligent, actionable solutions.
+* I combine data strategy, analytics, business intelligence, and data science to uncover insights and support better business decisions.
 * Let's work together. Email me: kphillips.za@gmail.com or send me a DM on [LinkedIn](https://www.linkedin.com/in/kirbykphillips/) 
 
 <!--
