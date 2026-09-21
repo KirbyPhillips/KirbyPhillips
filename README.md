@@ -12,8 +12,8 @@
 
 # Kirby Phillips 
 
-* Data Consultant helping businesses turn complex data into intelligent, actionable solutions.
-* I combine data strategy, analytics, business intelligence, and data science to uncover insights and support better business decisions.
+* I’m a Data Consultant solving business problems, through data analytics, data science, and data visualisation.
+* My work focuses on uncovering patterns, predicting outcomes, and turning complex data into actionable business insights.
 * Let's work together. Email me: kphillips.za@gmail.com or send me a DM on [LinkedIn](https://www.linkedin.com/in/kirbykphillips/) 
 
 <!--
